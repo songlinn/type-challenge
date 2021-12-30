@@ -16,7 +16,7 @@
 - [x] 898-Includes
 - [x] 3057-Push
 - [x] 3060-Unshift
-- [x] 3112=Parameters
+- [x] 3112-Parameters
 
 #### Medium:
 

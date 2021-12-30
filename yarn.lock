@@ -1228,6 +1228,11 @@
     "@size-limit/esbuild" "7.0.5"
     "@size-limit/file" "7.0.5"
 
+"@type-challenges/utils@^0.1.1":
+  version "0.1.1"
+  resolved "https://registry.nlark.com/@type-challenges/utils/download/@type-challenges/utils-0.1.1.tgz#18ce289fb84caf1c13eee211226dbf2bc6195ed3"
+  integrity sha1-GM4on7hMrxwT7uIRIm2/K8YZXtM=
+
 "@types/babel__core@^7.1.7":
   version "7.1.17"
   resolved "https://registry.npmmirror.com/@types/babel__core/download/@types/babel__core-7.1.17.tgz#f50ac9d20d64153b510578d84f9643f9a3afbe64"

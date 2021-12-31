@@ -25,7 +25,17 @@
 - [x] 8-Readonly-2
 - [x] 9-Deep-Readonly
 - [x] 10-Tuple-to-Union
-- [ ] 12-Chainable-Options
+- [x] 12-Chainable-Options
 - [x] 15-Last-of-Array
 - [x] 16-Pop
-- [ ] 20-Promise.all
+- [x] 20-Promise.all
+- [x] 62-Type-Lookup
+- [x] 106-TrimLeft
+- [x] 108-Trim
+- [x] 110-Capitalize
+- [x] 116-Replace
+- [x] 119-ReplaceAll
+- [x] 191-Append-Arguments
+- [ ] 296-Permutation
+- [x] 198-Length-of-string
+- [ ] 459-Flatten

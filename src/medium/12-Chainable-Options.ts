@@ -1,6 +1,6 @@
-type Chainable = {
-  option(key: string, value: any): any
-  get(): any
+type Chainable<R extends Record<string, unknown> = {}> = {
+  option<K extends string, V>(key: K, value: V): Chainable<R & {[P in K]: V}>
+  get(): R
 }
 
 
@@ -18,7 +18,6 @@ const result = a
 type cases = [
   Expect<Alike<typeof result, Expected>>
 ]
-type TT = typeof result
 
 type Expected = {
   foo: number

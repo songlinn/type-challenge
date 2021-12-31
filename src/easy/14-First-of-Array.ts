@@ -1,4 +1,4 @@
-type First<T extends any[]> = T extends [infer First, ...infer R] ? First: never
+type First<T extends any[]> = T extends [infer First, ...infer R] ? First : never
 
 
 /* _____________ Test Cases _____________ */
